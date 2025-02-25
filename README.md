@@ -1,12 +1,9 @@
 # Causal Insights from Clinical Information in Radiology: Enhancing Future Multimodal AI Development
 
----
 ![MIMIC Workflow](data/viz/teaser.png)
 This repository contains the code for the paper:  
 **"Causal Insights from Clinical Information in Radiology: Enhancing Future Multimodal AI Development"**  
 Submitted to the journal **Computer Methods and Programs in Biomedicine**.
-
----
 
 ## 🚀 MIMIC Dataset Preprocessing
 
@@ -49,14 +46,12 @@ Download and import the following MIMIC data sources into the sqlite database:
 
 🔹 **At this point, all necessary tables are prepared for causal analysis.** 🎯  
 
----
 
 ## 🔬 Causal Analysis
 
 The **notebook** `src/propensity_score_matching` guides you through the full causal analysis process.  
 📌 **Simply execute the cells iteratively to proceed.**  
 
----
 
 ## 📊 Streamlit Dashboard
 
