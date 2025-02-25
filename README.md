@@ -43,7 +43,7 @@ Download and import the following MIMIC data sources into the sqlite database:
 (ii) linking them to **UMLS concepts** via **scispaCy entity linker**.  
   🔹 Output is stored as a `.json` file and should be imported into **SQLite** as `referral_information`.  
 
-🔹 **At this point, all necessary tables are prepared for causal analysis.** 🎯  
+🔹 **At this point, all necessary tables are prepared for causal analysis.**
 
 
 ## 🔬 Causal Analysis
